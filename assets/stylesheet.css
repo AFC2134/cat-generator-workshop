@@ -1,0 +1,25 @@
+.background {
+    background-color: black;
+    text-decoration-color: purple;
+}
+.container-1 {
+    border: 2px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration-color: purple;
+}
+.flex-box-container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid brown;
+    justify-content: space-around;
+}
+.flex-box-container-1 img {
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: purple 0px 10px 50px;
+}
+.title {
+    text-emphasis-color: purple;
+}
